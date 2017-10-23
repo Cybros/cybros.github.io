@@ -1,2 +1,2 @@
-## Welcome to Cybros LNMIIT
+## Welcome to CybrosX
 ### Website Under Construction
