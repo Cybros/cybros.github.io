@@ -1140,7 +1140,7 @@ fieldset[disabled] .s-btn {
   width: 100%;
   height: auto;
   display: table;
-  padding: .75rem 1.875rem;
+  padding: 0 1.875rem;
 }
 
 .s-header__container:before, .s-header__container:after {
