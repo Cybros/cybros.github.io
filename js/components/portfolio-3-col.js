@@ -21,7 +21,7 @@ var Portfolio = function() {
         cols: 3
       }, {
         width: 320,
-        cols: 1
+        cols: 2
       }],
       defaultFilter: '*',
       gapHorizontal: 2,
