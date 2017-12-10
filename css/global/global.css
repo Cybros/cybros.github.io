@@ -1198,7 +1198,7 @@
   Border
 ------------------------------------*/
 .g-hor-border-1__solid--primary {
-  border: 0.0625rem solid #13b1cd;
+  border: 0.0625rem solid #2b3549;
 }
 
 .g-hor-border-4__solid--white {
@@ -7212,7 +7212,7 @@
 ------------------------------------*/
 /* Text Colors */
 .g-color--primary {
-  color: #13b1cd !important;
+  color: #2b3549 !important;
 }
 
 .g-color--blueviolet {
@@ -7281,16 +7281,16 @@
 
 /* Hover Colors */
 .g-color--text[href]:hover {
-  color: #13b1cd !important;
+  color: #2b3549 !important;
 }
 
 .g-color--white-opacity[href]:hover {
-  color: #13b1cd !important;
+  color: #2b3549 !important;
 }
 
 /* Background Colors */
 .g-bg-color--primary {
-  background-color: #13b1cd !important;
+  background-color: #2b3549 !important;
 }
 
 .g-bg-color--blueviolet {
@@ -7363,6 +7363,6 @@
 }
 
 .g-bg-color--primary-ltr {
-  background-image: linear-gradient(145deg, rgba(19, 177, 205, 0.6) 0%, #13b1cd 100%);
+  background-image: linear-gradient(145deg, rgba(19, 177, 205, 0.6) 0%, #2b3549 100%);
   background-repeat: repeat-x;
 }

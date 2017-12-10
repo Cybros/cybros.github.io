@@ -65,7 +65,7 @@ h5 a:focus,
 h5 a:hover,
 h6 a:focus,
 h6 a:hover {
-  color: #13b1cd;
+  color: #2b3549;
   transition-duration: 200ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -109,7 +109,7 @@ li > a {
 
 em > a:hover,
 li > a:hover {
-  color: #13b1cd;
+  color: #2b3549;
 }
 
 small {
@@ -139,7 +139,7 @@ p {
 
 /* Links */
 a {
-  color: #13b1cd;
+  color: #2b3549;
   text-decoration: none;
 }
 
@@ -157,13 +157,13 @@ a:focus {
 ------------------------------------*/
 ::selection {
   color: #fff;
-  background: #13b1cd;
+  background: #2b3549;
   text-shadow: none;
 }
 
 ::-webkit-selection {
   color: #fff;
-  background: #13b1cd;
+  background: #2b3549;
   text-shadow: none;
 }
 
@@ -264,7 +264,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-btn--white-bg:focus, .s-btn--white-bg:hover {
-  color: #13b1cd;
+  color: #2b3549;
   background: #fff;
 }
 
@@ -278,8 +278,8 @@ fieldset[disabled] .s-btn {
 
 .s-btn--dark-bg:focus, .s-btn--dark-bg:hover {
   color: #fff;
-  background: #13b1cd;
-  border-color: #13b1cd;
+  background: #2b3549;
+  border-color: #2b3549;
 }
 
 .s-btn--dark-brd {
@@ -298,30 +298,30 @@ fieldset[disabled] .s-btn {
 
 .s-btn--primary-bg {
   color: #fff;
-  background: #13b1cd;
+  background: #2b3549;
   border-width: 0.0625rem;
   border-style: solid;
-  border-color: #13b1cd;
+  border-color: #2b3549;
 }
 
 .s-btn--primary-bg:focus, .s-btn--primary-bg:hover {
   color: #fff;
-  background: #13b1cd;
-  border-color: #13b1cd;
+  background: #2b3549;
+  border-color: #2b3549;
 }
 
 .s-btn--primary-brd {
-  color: #13b1cd;
+  color: #2b3549;
   background: transparent;
   border-width: 0.0625rem;
   border-style: solid;
-  border-color: #13b1cd;
+  border-color: #2b3549;
 }
 
 .s-btn--primary-brd:focus, .s-btn--primary-brd:hover {
   color: #fff;
-  background: #13b1cd;
-  border-color: #13b1cd;
+  background: #2b3549;
+  border-color: #2b3549;
 }
 
 .s-btn-icon--white-brd {
@@ -717,8 +717,8 @@ fieldset[disabled] .s-btn {
 
 .s-icon--white-brd:focus, .s-icon--white-brd:hover {
   color: #fff;
-  background: #13b1cd;
-  border-color: #13b1cd;
+  background: #2b3549;
+  border-color: #2b3549;
 }
 
 .s-icon--white-bg {
@@ -731,29 +731,29 @@ fieldset[disabled] .s-btn {
 }
 
 .s-icon--white-bg:focus, .s-icon--white-bg:hover {
-  color: #13b1cd;
+  color: #2b3549;
   background: #fff;
   border-color: #fff;
 }
 
 .s-icon--primary-brd {
-  color: #13b1cd;
+  color: #2b3549;
   background: transparent;
   border-width: 0.0625rem;
   border-style: solid;
-  border-color: #13b1cd;
+  border-color: #2b3549;
   line-height: 1.4;
 }
 
 .s-icon--primary-brd:focus, .s-icon--primary-brd:hover {
   color: #fff;
-  background: #13b1cd;
-  border-color: #13b1cd;
+  background: #2b3549;
+  border-color: #2b3549;
 }
 
 .s-icon--primary-bg {
   color: #fff;
-  background: #13b1cd;
+  background: #2b3549;
   line-height: 1.6;
 }
 
@@ -803,7 +803,7 @@ fieldset[disabled] .s-btn {
   z-index: -1;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(145deg, rgba(152, 119, 234, 0.7) -25%, #13b1cd 100%);
+  background-image: linear-gradient(145deg, rgba(152, 119, 234, 0.7) -25%, #2b3549 100%);
   background-repeat: repeat-x;
   content: " ";
 }
@@ -838,7 +838,7 @@ fieldset[disabled] .s-btn {
   bottom: 0;
   width: 100%;
   height: 0.1875rem;
-  background-image: linear-gradient(145deg, rgba(152, 119, 234, 0.9) -25%, #13b1cd 100%);
+  background-image: linear-gradient(145deg, rgba(152, 119, 234, 0.9) -25%, #2b3549 100%);
   background-repeat: repeat-x;
   content: " ";
 }
@@ -912,7 +912,7 @@ fieldset[disabled] .s-btn {
   z-index: -1;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(-180deg, rgba(28, 123, 172, 0.1) 0%, #13b1cd 80%);
+  background-image: linear-gradient(-180deg, rgba(28, 123, 172, 0.1) 0%, #2b3549 80%);
   background-repeat: repeat-x;
   content: " ";
 }
@@ -999,7 +999,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-plan-v1__price-mark, .s-plan-v1__price-tag {
-  color: #13b1cd;
+  color: #2b3549;
 }
 
 .s-plan-v1__price-mark {
@@ -1934,7 +1934,7 @@ fieldset[disabled] .s-btn {
     color: rgba(34, 35, 36, 0.7);
   }
   .s-header-v2__nav-link.-is-active {
-    color: #13b1cd;
+    color: #2b3549;
   }
 }
 
@@ -1976,11 +1976,11 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header-v2__dropdown-menu-link:hover {
-  color: #13b1cd !important;
+  color: #2b3549 !important;
 }
 
 .s-header-v2__dropdown-menu-link.-is-active {
-  color: #13b1cd !important;
+  color: #2b3549 !important;
 }
 
 /* Dropdown Menu Open On Hover
@@ -2014,13 +2014,13 @@ fieldset[disabled] .s-btn {
     color: rgba(34, 35, 36, 0.7);
   }
   .s-header__shrink .s-header-v2__nav-link:hover {
-    color: #13b1cd;
+    color: #2b3549;
   }
   .s-header__shrink .s-header-v2__nav-link:focus {
     color: rgba(34, 35, 36, 0.7);
   }
   .s-header__shrink .s-header-v2__nav-link.-is-active {
-    color: #13b1cd;
+    color: #2b3549;
   }
 }
 
@@ -2056,7 +2056,7 @@ fieldset[disabled] .s-btn {
   width: 1.875rem;
   height: 3rem;
   z-index: 9;
-  background: #13b1cd;
+  background: #2b3549;
   border-radius: 3.125rem;
   text-align: center;
   transition-duration: 300ms;
@@ -2082,7 +2082,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-back-to-top:hover:before {
-  color: #13b1cd;
+  color: #2b3549;
 }
 
 .s-back-to-top:focus, .s-back-to-top:hover {
@@ -2119,7 +2119,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-portfolio__filter-v1-item.cbp-filter-item-active {
-  color: #13b1cd !important;
+  color: #2b3549 !important;
 }
 
 .s-portfolio__filter-v1.cbp-l-filters-text {
@@ -2192,7 +2192,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-portfolio__paginations-v1 .cbp-nav-pagination-active {
-  background: #13b1cd;
+  background: #2b3549;
 }
 
 /* Tab v1
@@ -2234,7 +2234,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-tab__filter-v1.cbp-filter-item-active {
-  color: #13b1cd;
+  color: #2b3549;
 }
 
 .s-tab__grid-v1-item {
@@ -2354,7 +2354,7 @@ fieldset[disabled] .s-btn {
 
 .s-swiper__pagination-v1 .swiper-pagination-bullet-active {
   width: 1.875rem;
-  background: #13b1cd;
+  background: #2b3549;
   opacity: 1;
 }
 
@@ -2363,7 +2363,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-swiper__pagination-v1--white .swiper-pagination-bullet-active {
-  background: #13b1cd;
+  background: #2b3549;
 }
 
 .s-swiper__pagination-v1--dark .swiper-pagination-bullet {
@@ -2371,7 +2371,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-swiper__pagination-v1--dark .swiper-pagination-bullet-active {
-  background: #13b1cd;
+  background: #2b3549;
 }
 
 .people-image {
