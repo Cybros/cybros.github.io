@@ -2105,7 +2105,7 @@ fieldset[disabled] .s-btn {
 }
 
 /*----------------------------------
-  Cubeportfolio
+  Cube
 ------------------------------------*/
 .s-portfolio__filter-v1-item {
   font-size: 0.8125rem;
@@ -2241,57 +2241,6 @@ fieldset[disabled] .s-btn {
   font-size: 0.9375rem;
   font-weight: 300;
   color: #656565;
-}
-
-/*----------------------------------
-  Google Map
-------------------------------------*/
-/* Custom Style */
-.s-google-map,
-.s-google-map .s-google-container {
-  position: relative;
-}
-
-/* Info Window: White background and box outline */
-.gm-style > div:first-child > div + div > div:last-child > div > div:first-child > div {
-  background-color: #fff !important;
-  box-shadow: none !important;
-}
-
-/* Info Window: Arrow colour */
-.gm-style > div:first-child > div + div > div:last-child > div > div:first-child > div > div > div {
-  background-color: #fff !important;
-  box-shadow: none !important;
-}
-
-.gm-style > div:first-child > div + div > div:last-child > div > div:first-child > div:first-child {
-  display: none;
-}
-
-/* Info Window: Let's remove image icon inside close button */
-.gm-style > div:first-child > div + div > div:last-child > div > div:last-child > img {
-  display: none;
-}
-
-/* Info Window: New arrow style */
-.gm-style > div:first-child > div + div > div:last-child > div > div:last-child {
-  overflow: inherit !important;
-}
-
-.gm-style > div:first-child > div + div > div:last-child > div > div:last-child:after {
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-size: 0.75rem;
-  font-family: themify;
-  color: #656565;
-  content: "\e646";
-}
-
-/* Info Window: Positioning of infowindow */
-.gm-style-iw {
-  top: 1.375rem !important;
-  left: 1.375rem !important;
 }
 
 /*----------------------------------
