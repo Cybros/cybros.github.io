@@ -2250,6 +2250,7 @@ fieldset[disabled] .s-btn {
   position: relative;
   width: 100%;
   overflow: hidden;
+  color: black;
 }
 
 /* Arrows v1
